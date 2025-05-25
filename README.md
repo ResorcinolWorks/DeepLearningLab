@@ -1,2 +1,10 @@
 # DeepLearningLab
-This repo contains the document of index and combined doc of solutions
+This repo contains the 
+
+-Document of Index
+
+-Combined pdf of both Theory and Codes
+
+Preview of Index 
+
+![twt](Index.png)
